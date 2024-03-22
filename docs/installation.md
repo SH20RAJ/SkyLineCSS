@@ -1,10 +1,9 @@
-
 # Installation
 
 To use SkyLineCSS, you can include the following CSS file in your project:
 
 ```html
-<link rel="stylesheet" href="path/to/skyline.css">
+<link rel="stylesheet" href="path/to/skyline.min.css">
 ```
 
 If you prefer, you can also use a CDN link:
