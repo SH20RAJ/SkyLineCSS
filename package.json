@@ -1,0 +1,27 @@
+{
+  "name": "skylinecss",
+  "version": "1.0.1",
+  "description": "SkyLineCSS is a lightweight, modern CSS framework designed to make building responsive web interfaces faster and easier. It provides a set of utility classes and components to streamline your development process.",
+  "main": "skyline.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SH20RAJ/SkyLineCSS.git#main"
+  },
+  "keywords": [
+    "css",
+    "css3",
+    "css",
+    "framework",
+    "bootstrap",
+    "tailwind"
+  ],
+  "author": "sh20raj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SH20RAJ/SkyLineCSS/issues"
+  },
+  "homepage": "https://github.com/SH20RAJ/SkyLineCSS/tree/main#readme"
+}

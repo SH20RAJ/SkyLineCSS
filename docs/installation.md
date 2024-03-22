@@ -6,10 +6,13 @@ To use SkyLineCSS, you can include the following CSS file in your project:
 <link rel="stylesheet" href="path/to/skyline.min.css">
 ```
 
+### CDN
+
 If you prefer, you can also use a CDN link:
 
 ```html
-<link rel="stylesheet" href="https://cdn.example.com/path/to/skyline.css">
+<!-- Latest version -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sh20raj/SkyLineCSS@latest/skyline.min.css">
 ```
 
 Replace `"path/to/skyline.css"` with the actual path to your `skyline.css` file in your project directory.
@@ -19,7 +22,7 @@ Replace `"path/to/skyline.css"` with the actual path to your `skyline.css` file 
 If you want to host the CSS file yourself, you can download it from the [SkyLineCSS GitHub repository](https://github.com/example/skylinecss) or use the following command:
 
 ```bash
-git clone https://github.com/example/skylinecss.git
+git clone https://github.com/sh20raj/skylinecss
 ```
 
 Once downloaded, link the `skyline.css` file in your HTML:
