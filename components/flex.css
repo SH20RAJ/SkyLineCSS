@@ -1,13 +1,34 @@
-/* flex.css */
+/* flex.css - Flexbox Utilities */
+
+/* Default Flex Display */
 .flex {
-    display: flex;
+  display: flex;
+}
+
+/* Flex Items Centered */
+.items-center {
+  align-items: center;
+}
+
+/* Flex Content Justified Center */
+.justify-center {
+  justify-content: center;
+}
+
+/* Mobile Responsive */
+@media (max-width: 768px) {
+  /* Stack flex items vertically on smaller screens */
+  .flex {
+    flex-direction: column;
   }
-  
+
+  /* Center items vertically on smaller screens */
   .items-center {
     align-items: center;
   }
-  
+
+  /* Center content horizontally on smaller screens */
   .justify-center {
     justify-content: center;
   }
-  
+}
