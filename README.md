@@ -13,7 +13,7 @@ SkyLineCSS is a lightweight, modern CSS framework designed to make building resp
 
 ## Installation
 
-You can include SkyLineCSS in your project using one of the following methods: [See Docs](/docs)
+You can include SkyLineCSS in your project using one of the following methods: [See Docs](/docs) | [GitBook Docs](https://sh20raj.gitbook.io/skylinecss)
 
 ### CDN
 
