@@ -1,0 +1,13 @@
+/* https://getcssscan.com/css-box-shadow-examples */
+
+.box-shadow-1 {
+    box-shadow: rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset, rgba(0, 0, 0, 0.9) 0px 0px 0px 1px;
+}
+
+.box-shadow-2 {
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+
+.box-shadow-3 {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}

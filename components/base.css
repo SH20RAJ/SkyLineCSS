@@ -1,0 +1,35 @@
+/* base.css - General Styles */
+/* Additional global styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+  }
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .section {
+    margin-bottom: 30px;
+  }
+  
+  .btn-group {
+    margin-bottom: 20px;
+  }
+  
+  .alert-group {
+    margin-bottom: 20px;
+  }
+  
