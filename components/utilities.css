@@ -1,0 +1,397 @@
+/* utilities.css - Utility Classes */
+
+/* Margins */
+.m-0 {
+  margin: 0;
+}
+
+.m-1 {
+  margin: 0.25rem;
+}
+
+.m-2 {
+  margin: 0.5rem;
+}
+
+.m-4 {
+  margin: 1rem;
+}
+
+.m-8 {
+  margin: 2rem;
+}
+
+/* Padding */
+.p-0 {
+  padding: 0;
+}
+
+.p-1 {
+  padding: 0.25rem;
+}
+
+.p-2 {
+  padding: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.p-8 {
+  padding: 2rem;
+}
+
+/* Font Size */
+.text-xs {
+  font-size: 0.75rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+}
+
+.text-base {
+  font-size: 1rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+}
+
+/* Size (Width/Height) */
+.w-full {
+  width: 100%;
+}
+
+.w-1/2 {
+  width: 50%;
+}
+
+.w-1/3 {
+  width: 33.3333%;
+}
+
+.w-2/3 {
+  width: 66.6666%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-64 {
+  height: 16rem;
+}
+
+/* Background Color */
+.bg-transparent {
+  background-color: transparent;
+}
+
+.bg-gray-100 {
+  background-color: #f7fafc;
+}
+
+.bg-gray-200 {
+  background-color: #edf2f7;
+}
+
+.bg-gray-300 {
+  background-color: #e2e8f0;
+}
+
+.bg-gray-400 {
+  background-color: #cbd5e0;
+}
+
+.bg-gray-500 {
+  background-color: #a0aec0;
+}
+
+.bg-gray-600 {
+  background-color: #718096;
+}
+
+.bg-gray-700 {
+  background-color: #4a5568;
+}
+
+.bg-gray-800 {
+  background-color: #2d3748;
+}
+
+.bg-gray-900 {
+  background-color: #1a202c;
+}
+
+.bg-blue-100 {
+  background-color: #ebf8ff;
+}
+
+.bg-blue-200 {
+  background-color: #bee3f8;
+}
+
+.bg-blue-300 {
+  background-color: #90cdf4;
+}
+
+.bg-blue-400 {
+  background-color: #63b3ed;
+}
+
+.bg-blue-500 {
+  background-color: #3b82f6;
+}
+
+.bg-blue-600 {
+  background-color: #2563eb;
+}
+
+.bg-blue-700 {
+  background-color: #1d4ed8;
+}
+
+.bg-blue-800 {
+  background-color: #1e40af;
+}
+
+.bg-blue-900 {
+  background-color: #1e3a8a;
+}
+
+.bg-green-100 {
+  background-color: #f0fff4;
+}
+
+.bg-green-200 {
+  background-color: #c6f6d5;
+}
+
+.bg-green-300 {
+  background-color: #9ae6b4;
+}
+
+.bg-green-400 {
+  background-color: #68d391;
+}
+
+.bg-green-500 {
+  background-color: #48bb78;
+}
+
+.bg-green-600 {
+  background-color: #38a169;
+}
+
+.bg-green-700 {
+  background-color: #2f855a;
+}
+
+.bg-green-800 {
+  background-color: #276749;
+}
+
+.bg-green-900 {
+  background-color: #22543d;
+}
+
+/* Additional Utility Classes */
+.rounded-full {
+  border-radius: 9999px;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-start {
+  align-items: flex-start;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-baseline {
+  align-items: baseline;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-grow {
+  flex-grow: 1;
+}
+
+.flex-shrink {
+  flex-shrink: 1;
+}
+
+/* Text Color */
+.text-white {
+  color: #fff;
+}
+
+.text-gray-100 {
+  color: #f7fafc;
+}
+
+.text-gray-200 {
+  color: #edf2f7;
+}
+
+.text-gray-300 {
+  color: #e2e8f0;
+}
+
+.text-gray-400 {
+  color: #cbd5e0;
+}
+
+.text-gray-500 {
+  color: #a0aec0;
+}
+
+.text-gray-600 {
+  color: #718096;
+}
+
+.text-gray-700 {
+  color: #4a5568;
+}
+
+.text-gray-800 {
+  color: #2d3748;
+}
+
+.text-gray-900 {
+  color: #1a202c;
+}
+
+.text-blue-500 {
+  color: #3b82f6;
+}
+
+.text-green-500 {
+  color: #48bb78;
+}
+
+/* Hover and Focus States */
+.hover\:bg-gray-100:hover {
+  background-color: #f7fafc;
+}
+
+.hover\:bg-gray-200:hover {
+  background-color: #edf2f7;
+}
+
+.hover\:bg-gray-300:hover {
+  background-color: #e2e8f0;
+}
+
+.hover\:bg-gray-400:hover {
+  background-color: #cbd5e0;
+}
+
+.hover\:bg-gray-500:hover {
+  background-color: #a0aec0;
+}
+
+.hover\:bg-gray-600:hover {
+  background-color: #718096;
+}
+
+.hover\:bg-gray-700:hover {
+  background-color: #4a5568;
+}
+
+.hover\:bg-gray-800:hover {
+  background-color: #2d3748;
+}
+
+.hover\:bg-gray-900:hover {
+  background-color: #1a202c;
+}
+
+.hover\:text-gray-500:hover {
+  color: #a0aec0;
+}
+
+.hover\:text-blue-500:hover {
+  color: #3b82f6;
+}
+
+.hover\:text-green-500:hover {
+  color: #48bb78;
+}
+
+.focus\:bg-gray-100:focus {
+  background-color: #f7fafc;
+}
+
+.focus\:bg-gray-200:focus {
+  background-color: #edf2f7;
+}
+
+.focus\:bg-gray-300:focus {
+  background-color: #e2e8f0;
+}
+
+.focus\:bg-gray-400:focus {
+  background-color: #cbd5e0;
+}
+
+.focus\:bg-gray-500:focus {
+  background-color: #a0aec0;
+}
+
+.focus\:bg-gray-600:focus {
+  background-color: #718096;
+}
+
+.focus\:bg-gray-700:focus {
+  background-color: #4a5568;
+}
+
+.focus\:bg-gray-800:focus {
+  background-color: #2d3748;
+}
+
+.focus\:bg-gray-900:focus {
+  background-color: #1a202c;
+}
+
+.focus\:text-gray-500:focus {
+  color: #a0aec0;
+}
+
+.focus\:text-blue-500:focus {
+  color: #3b82f6;
+}
+
+.focus\:text-green-500:focus {
+  color: #48bb78;
+}
