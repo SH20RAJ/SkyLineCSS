@@ -1,34 +1,146 @@
-/* flex.css - Flexbox Utilities */
+/* flex.css */
 
-/* Default Flex Display */
+/* Display Flex */
 .flex {
   display: flex;
 }
 
-/* Flex Items Centered */
-.items-center {
-  align-items: center;
+/* Flex Direction */
+.flex-row {
+  flex-direction: row;
 }
 
-/* Flex Content Justified Center */
+.flex-column {
+  flex-direction: column;
+}
+
+/* Justify Content */
+.justify-start {
+  justify-content: flex-start;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
 .justify-center {
   justify-content: center;
 }
 
-/* Mobile Responsive */
-@media (max-width: 768px) {
-  /* Stack flex items vertically on smaller screens */
-  .flex {
-    flex-direction: column;
-  }
+.justify-space-between {
+  justify-content: space-between;
+}
 
-  /* Center items vertically on smaller screens */
-  .items-center {
-    align-items: center;
-  }
+.justify-space-around {
+  justify-content: space-around;
+}
 
-  /* Center content horizontally on smaller screens */
-  .justify-center {
-    justify-content: center;
-  }
+/* Align Items */
+.items-start {
+  align-items: flex-start;
+}
+
+.items-end {
+  align-items: flex-end;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.items-baseline {
+  align-items: baseline;
+}
+
+.items-stretch {
+  align-items: stretch;
+}
+
+/* Align Self */
+.self-start {
+  align-self: flex-start;
+}
+
+.self-end {
+  align-self: flex-end;
+}
+
+.self-center {
+  align-self: center;
+}
+
+.self-baseline {
+  align-self: baseline;
+}
+
+.self-stretch {
+  align-self: stretch;
+}
+
+/* Flex Wrap */
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.flex-nowrap {
+  flex-wrap: nowrap;
+}
+
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+/* Flex Grow and Shrink */
+.flex-grow {
+  flex-grow: 1;
+}
+
+.flex-shrink {
+  flex-shrink: 1;
+}
+
+.flex-no-grow {
+  flex-grow: 0;
+}
+
+.flex-no-shrink {
+  flex-shrink: 0;
+}
+
+/* Flex Basis */
+.flex-basis-auto {
+  flex-basis: auto;
+}
+
+.flex-basis-0 {
+  flex-basis: 0;
+}
+
+.flex-basis-full {
+  flex-basis: 100%;
+}
+
+/* Flex Align */
+.align-content-start {
+  align-content: flex-start;
+}
+
+.align-content-end {
+  align-content: flex-end;
+}
+
+.align-content-center {
+  align-content: center;
+}
+
+.align-content-space-between {
+  align-content: space-between;
+}
+
+.align-content-space-around {
+  align-content: space-around;
+}
+
+.align-content-stretch {
+  align-content: stretch;
 }
