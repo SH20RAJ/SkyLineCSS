@@ -5,7 +5,7 @@
 * [Utility Classes](utility-classes.md)
 * [Buttons](buttons.md)
 * [Cards](cards.md)
-* [Flexbox Utilities](flex.md)
 * [Alerts](alerts.md)
+* [Flexbox Utilities](flex.md)
 * [Forms](forms.md)
 * [Tables](tables.md)
