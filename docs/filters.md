@@ -1,4 +1,6 @@
-# SkyLineCSS - Filters Utility Classes
+# Filters
+
+## SkyLineCSS - Filters Utility Classes
 
 SkyLineCSS provides a set of utility classes for applying CSS filters to elements. Filters allow you to apply visual effects like blurring, adjusting brightness, contrast, drop shadows, grayscale, hue rotation, invert colors, saturation adjustment, and sepia tone.
 
@@ -6,10 +8,10 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.blur-none`: No blur effect.
-- `.blur-sm`: Small blur effect (4px).
-- `.blur-md`: Medium blur effect (8px).
-- `.blur-lg`: Large blur effect (12px).
+* `.blur-none`: No blur effect.
+* `.blur-sm`: Small blur effect (4px).
+* `.blur-md`: Medium blur effect (8px).
+* `.blur-lg`: Large blur effect (12px).
 
 ### Usage
 
@@ -22,11 +24,11 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.brightness-0`: No brightness adjustment.
-- `.brightness-50`: 50% brightness.
-- `.brightness-75`: 75% brightness.
-- `.brightness-100`: 100% brightness.
-- `.brightness-125`: 125% brightness.
+* `.brightness-0`: No brightness adjustment.
+* `.brightness-50`: 50% brightness.
+* `.brightness-75`: 75% brightness.
+* `.brightness-100`: 100% brightness.
+* `.brightness-125`: 125% brightness.
 
 ### Usage
 
@@ -39,11 +41,11 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.contrast-0`: No contrast adjustment.
-- `.contrast-50`: 50% contrast.
-- `.contrast-75`: 75% contrast.
-- `.contrast-100`: 100% contrast.
-- `.contrast-125`: 125% contrast.
+* `.contrast-0`: No contrast adjustment.
+* `.contrast-50`: 50% contrast.
+* `.contrast-75`: 75% contrast.
+* `.contrast-100`: 100% contrast.
+* `.contrast-125`: 125% contrast.
 
 ### Usage
 
@@ -56,7 +58,7 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.drop-shadow`: Adds a drop shadow effect.
+* `.drop-shadow`: Adds a drop shadow effect.
 
 ### Usage
 
@@ -68,9 +70,9 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.grayscale-0`: No grayscale effect.
-- `.grayscale-50`: 50% grayscale.
-- `.grayscale-100`: 100% grayscale.
+* `.grayscale-0`: No grayscale effect.
+* `.grayscale-50`: 50% grayscale.
+* `.grayscale-100`: 100% grayscale.
 
 ### Usage
 
@@ -83,10 +85,10 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.hue-rotate-0`: No hue rotation.
-- `.hue-rotate-90`: 90 degrees hue rotation.
-- `.hue-rotate-180`: 180 degrees hue rotation.
-- `.hue-rotate-270`: 270 degrees hue rotation.
+* `.hue-rotate-0`: No hue rotation.
+* `.hue-rotate-90`: 90 degrees hue rotation.
+* `.hue-rotate-180`: 180 degrees hue rotation.
+* `.hue-rotate-270`: 270 degrees hue rotation.
 
 ### Usage
 
@@ -99,9 +101,9 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.invert-0`: No color inversion.
-- `.invert-50`: 50% color inversion.
-- `.invert-100`: 100% color inversion.
+* `.invert-0`: No color inversion.
+* `.invert-50`: 50% color inversion.
+* `.invert-100`: 100% color inversion.
 
 ### Usage
 
@@ -114,10 +116,10 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.saturate-0`: No saturation adjustment.
-- `.saturate-50`: 50% saturation.
-- `.saturate-100`: 100% saturation.
-- `.saturate-150`: 150% saturation.
+* `.saturate-0`: No saturation adjustment.
+* `.saturate-50`: 50% saturation.
+* `.saturate-100`: 100% saturation.
+* `.saturate-150`: 150% saturation.
 
 ### Usage
 
@@ -130,9 +132,9 @@ SkyLineCSS provides a set of utility classes for applying CSS filters to element
 
 ### Classes
 
-- `.sepia-0`: No sepia effect.
-- `.sepia-50`: 50% sepia.
-- `.sepia-100`: 100% sepia.
+* `.sepia-0`: No sepia effect.
+* `.sepia-50`: 50% sepia.
+* `.sepia-100`: 100% sepia.
 
 ### Usage
 

@@ -1,4 +1,6 @@
-# SkyLineCSS - Typography Utility Classes
+# Typography
+
+## SkyLineCSS - Typography Utility Classes
 
 SkyLineCSS provides a set of utility classes for controlling typography-related styles. These classes allow you to easily apply font families, sizes, styles, weights, spacing, alignment, colors, decorations, and more to your text elements.
 
@@ -6,9 +8,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.font-sans`: Sans-serif font family.
-- `.font-serif`: Serif font family.
-- `.font-mono`: Monospace font family.
+* `.font-sans`: Sans-serif font family.
+* `.font-serif`: Serif font family.
+* `.font-mono`: Monospace font family.
 
 ### Usage
 
@@ -22,14 +24,14 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.text-xs`: Extra small font size.
-- `.text-sm`: Small font size.
-- `.text-base`: Base font size.
-- `.text-lg`: Large font size.
-- `.text-xl`: Extra large font size.
-- `.text-2xl`: 2x large font size.
-- `.text-3xl`: 3x large font size.
-- `.text-4xl`: 4x large font size.
+* `.text-xs`: Extra small font size.
+* `.text-sm`: Small font size.
+* `.text-base`: Base font size.
+* `.text-lg`: Large font size.
+* `.text-xl`: Extra large font size.
+* `.text-2xl`: 2x large font size.
+* `.text-3xl`: 3x large font size.
+* `.text-4xl`: 4x large font size.
 
 ### Usage
 
@@ -43,7 +45,7 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.font-smooth`: Enable font smoothing.
+* `.font-smooth`: Enable font smoothing.
 
 ### Usage
 
@@ -55,7 +57,7 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.italic`: Italic font style.
+* `.italic`: Italic font style.
 
 ### Usage
 
@@ -67,14 +69,14 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.font-thin`: Thin font weight.
-- `.font-light`: Light font weight.
-- `.font-normal`: Normal font weight.
-- `.font-medium`: Medium font weight.
-- `.font-semibold`: Semi-bold font weight.
-- `.font-bold`: Bold font weight.
-- `.font-extrabold`: Extra bold font weight.
-- `.font-black`: Black font weight.
+* `.font-thin`: Thin font weight.
+* `.font-light`: Light font weight.
+* `.font-normal`: Normal font weight.
+* `.font-medium`: Medium font weight.
+* `.font-semibold`: Semi-bold font weight.
+* `.font-bold`: Bold font weight.
+* `.font-extrabold`: Extra bold font weight.
+* `.font-black`: Black font weight.
 
 ### Usage
 
@@ -88,8 +90,8 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.font-ordinal`: Enable ordinal font variants.
-- `.font-slashed-zero`: Enable slashed zero font variants.
+* `.font-ordinal`: Enable ordinal font variants.
+* `.font-slashed-zero`: Enable slashed zero font variants.
 
 ### Usage
 
@@ -102,9 +104,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.tracking-tight`: Tight letter spacing.
-- `.tracking-normal`: Normal letter spacing.
-- `.tracking-wide`: Wide letter spacing.
+* `.tracking-tight`: Tight letter spacing.
+* `.tracking-normal`: Normal letter spacing.
+* `.tracking-wide`: Wide letter spacing.
 
 ### Usage
 
@@ -117,9 +119,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.line-clamp-2`: Clamp text to 2 lines.
-- `.line-clamp-3`: Clamp text to 3 lines.
-- `.line-clamp-4`: Clamp text to 4 lines.
+* `.line-clamp-2`: Clamp text to 2 lines.
+* `.line-clamp-3`: Clamp text to 3 lines.
+* `.line-clamp-4`: Clamp text to 4 lines.
 
 ### Usage
 
@@ -132,10 +134,10 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.leading-none`: No extra line height.
-- `.leading-tight`: Tight line height.
-- `.leading-normal`: Normal line height.
-- `.leading-loose`: Loose line height.
+* `.leading-none`: No extra line height.
+* `.leading-tight`: Tight line height.
+* `.leading-normal`: Normal line height.
+* `.leading-loose`: Loose line height.
 
 ### Usage
 
@@ -148,9 +150,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.list-none`: No list style image.
-- `.list-disc`: Bulleted list style.
-- `.list-decimal`: Numbered list style.
+* `.list-none`: No list style image.
+* `.list-disc`: Bulleted list style.
+* `.list-decimal`: Numbered list style.
 
 ### Usage
 
@@ -170,8 +172,8 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.list-inside`: List marker inside the list item.
-- `.list-outside`: List marker outside the list item.
+* `.list-inside`: List marker inside the list item.
+* `.list-outside`: List marker outside the list item.
 
 ### Usage
 
@@ -191,10 +193,10 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.list-none`: No list style.
-- `.list-disc`: Disc list style.
-- `.list-decimal`: Decimal list style.
-- `.list-square`: Square list style.
+* `.list-none`: No list style.
+* `.list-disc`: Disc list style.
+* `.list-decimal`: Decimal list style.
+* `.list-square`: Square list style.
 
 ### Usage
 
@@ -216,10 +218,10 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.text-left`: Left-aligned text.
-- `.text-center`: Center-aligned text.
-- `.text-right`: Right-aligned text.
-- `.text-justify`: Justified text.
+* `.text-left`: Left-aligned text.
+* `.text-center`: Center-aligned text.
+* `.text-right`: Right-aligned text.
+* `.text-justify`: Justified text.
 
 ### Usage
 
@@ -232,12 +234,12 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.text-black`: Black text color.
-- `.text-white`: White text color.
-- `.text-gray`: Gray text color.
-- `.text-red`: Red text color.
-- `.text-blue`: Blue text color.
-- `.text-green`: Green text color.
+* `.text-black`: Black text color.
+* `.text-white`: White text color.
+* `.text-gray`: Gray text color.
+* `.text-red`: Red text color.
+* `.text-blue`: Blue text color.
+* `.text-green`: Green text color.
 
 ### Usage
 
@@ -250,9 +252,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.underline`: Underline text.
-- `.line-through`: Line through text.
-- `.no-underline`: No underline.
+* `.underline`: Underline text.
+* `.line-through`: Line through text.
+* `.no-underline`: No underline.
 
 ### Usage
 
@@ -265,9 +267,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.underline-black`: Black underline.
-- `.underline-white`: White underline.
-- `.underline-gray`: Gray underline.
+* `.underline-black`: Black underline.
+* `.underline-white`: White underline.
+* `.underline-gray`: Gray underline.
 
 ### Usage
 
@@ -280,9 +282,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.underline-dashed`: Dashed underline.
-- `.underline-dotted`: Dotted underline.
-- `.underline-double`: Double underline.
+* `.underline-dashed`: Dashed underline.
+* `.underline-dotted`: Dotted underline.
+* `.underline-double`: Double underline.
 
 ### Usage
 
@@ -295,9 +297,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.underline-thin`: Thin underline.
-- `.underline-medium`: Medium underline.
-- `.underline-thick`: Thick underline.
+* `.underline-thin`: Thin underline.
+* `.underline-medium`: Medium underline.
+* `.underline-thick`: Thick underline.
 
 ### Usage
 
@@ -310,7 +312,7 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.underline-offset`: Offset underline.
+* `.underline-offset`: Offset underline.
 
 ### Usage
 
@@ -322,9 +324,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.uppercase`: Uppercase text.
-- `.lowercase`: Lowercase text.
-- `.capitalize`: Capitalize text.
+* `.uppercase`: Uppercase text.
+* `.lowercase`: Lowercase text.
+* `.capitalize`: Capitalize text.
 
 ### Usage
 
@@ -337,8 +339,8 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.overflow-ellipsis`: Ellipsis overflow.
-- `.overflow-clip`: Clip overflow.
+* `.overflow-ellipsis`: Ellipsis overflow.
+* `.overflow-clip`: Clip overflow.
 
 ### Usage
 
@@ -351,9 +353,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.whitespace-normal`: Normal text wrap.
-- `.whitespace-nowrap`: No wrap text.
-- `.whitespace-pre`: Preformatted text.
+* `.whitespace-normal`: Normal text wrap.
+* `.whitespace-nowrap`: No wrap text.
+* `.whitespace-pre`: Preformatted text.
 
 ### Usage
 
@@ -366,7 +368,7 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.indent`: Text indentation.
+* `.indent`: Text indentation.
 
 ### Usage
 
@@ -378,10 +380,10 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.align-baseline`: Baseline vertical alignment.
-- `.align-top`: Top vertical alignment.
-- `.align-middle`: Middle vertical alignment.
-- `.align-bottom`: Bottom vertical alignment.
+* `.align-baseline`: Baseline vertical alignment.
+* `.align-top`: Top vertical alignment.
+* `.align-middle`: Middle vertical alignment.
+* `.align-bottom`: Bottom vertical alignment.
 
 ### Usage
 
@@ -394,8 +396,8 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.whitespace-normal`: Normal whitespace.
-- `.whitespace-nowrap`: No whitespace.
+* `.whitespace-normal`: Normal whitespace.
+* `.whitespace-nowrap`: No whitespace.
 
 ### Usage
 
@@ -408,9 +410,9 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.break-normal`: Normal word break.
-- `.break-words`: Break words.
-- `.break-all`: Break all.
+* `.break-normal`: Normal word break.
+* `.break-words`: Break words.
+* `.break-all`: Break all.
 
 ### Usage
 
@@ -422,8 +424,8 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.hyphens-none`: No hyphenation.
-- `.hyphens-auto`: Auto hyphenation.
+* `.hyphens-none`: No hyphenation.
+* `.hyphens-auto`: Auto hyphenation.
 
 ### Usage
 
@@ -435,7 +437,7 @@ SkyLineCSS provides a set of utility classes for controlling typography-related 
 
 ### Classes
 
-- `.content-center`: Centered content.
+* `.content-center`: Centered content.
 
 ### Usage
 
