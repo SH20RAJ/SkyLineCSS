@@ -12,7 +12,7 @@ SkyLineCSS is a lightweight, modern CSS framework designed to make building resp
 - Responsive: Designed to work well on all screen sizes.
 - Customizable: Easily override styles or extend the framework.
 - Lightweight: Minimal file size for fast loading.
-- [Playground](%3C%21--%20Latest%20version%20--%3E%0A%3Clink%20rel%3D%22stylesheet%22%20href%3D%22https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsh20raj%2FSkyLineCSS%40latest%2Fskyline.min.css%22%3E%0A%0A%0A%0A%0A%0A): Play with skyline code on playground to create something interesting
+- [Playground](https://codes20.github.io/?prefill=%3C%21--%20Latest%20version%20--%3E%0A%3Clink%20rel%3D%22stylesheet%22%20href%3D%22https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsh20raj%2FSkyLineCSS%40latest%2Fskyline.min.css%22%3E%0A%0A%0A%0A%0A%0A): Play with skyline code on playground to create something interesting
 
 ## Installation
 
