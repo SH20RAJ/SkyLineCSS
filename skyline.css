@@ -3,6 +3,7 @@
 
 /* Import components */
 @import 'components/base.css';
+@import 'components/utilities.css';
 @import 'components/buttons.css';
 @import 'components/flex.css';
 @import 'components/table.css';
