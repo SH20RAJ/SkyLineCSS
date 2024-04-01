@@ -1,10 +1,10 @@
 # Table of contents
 
 * [SkyLineCSS Documentation](README.md)
+* [Installation](installation.md)
 * [Alerts](alerts.md)
 * [Buttons](buttons.md)
-* [cards](cards.md)
+* [Cards](cards.md)
 * [Flexbox Utilities](flex.md)
 * [Forms](forms.md)
-* [Installation](installation.md)
 * [Tables](tables.md)
