@@ -1,0 +1,292 @@
+/* filters.css - Filters Utility Classes */
+
+/* Blur */
+.blur-none {
+    filter: blur(0);
+  }
+  
+  .blur-sm {
+    filter: blur(4px);
+  }
+  
+  .blur-md {
+    filter: blur(8px);
+  }
+  
+  .blur-lg {
+    filter: blur(12px);
+  }
+  
+  /* Brightness */
+  .brightness-0 {
+    filter: brightness(0%);
+  }
+  
+  .brightness-50 {
+    filter: brightness(50%);
+  }
+  
+  .brightness-75 {
+    filter: brightness(75%);
+  }
+  
+  .brightness-100 {
+    filter: brightness(100%);
+  }
+  
+  .brightness-125 {
+    filter: brightness(125%);
+  }
+  
+  /* Contrast */
+  .contrast-0 {
+    filter: contrast(0%);
+  }
+  
+  .contrast-50 {
+    filter: contrast(50%);
+  }
+  
+  .contrast-75 {
+    filter: contrast(75%);
+  }
+  
+  .contrast-100 {
+    filter: contrast(100%);
+  }
+  
+  .contrast-125 {
+    filter: contrast(125%);
+  }
+  
+  /* Drop Shadow */
+  .drop-shadow {
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+  }
+  
+  /* Grayscale */
+  .grayscale-0 {
+    filter: grayscale(0%);
+  }
+  
+  .grayscale-50 {
+    filter: grayscale(50%);
+  }
+  
+  .grayscale-100 {
+    filter: grayscale(100%);
+  }
+  
+  /* Hue Rotate */
+  .hue-rotate-0 {
+    filter: hue-rotate(0deg);
+  }
+  
+  .hue-rotate-90 {
+    filter: hue-rotate(90deg);
+  }
+  
+  .hue-rotate-180 {
+    filter: hue-rotate(180deg);
+  }
+  
+  .hue-rotate-270 {
+    filter: hue-rotate(270deg);
+  }
+  
+  /* Invert */
+  .invert-0 {
+    filter: invert(0%);
+  }
+  
+  .invert-50 {
+    filter: invert(50%);
+  }
+  
+  .invert-100 {
+    filter: invert(100%);
+  }
+  
+  /* Saturate */
+  .saturate-0 {
+    filter: saturate(0%);
+  }
+  
+  .saturate-50 {
+    filter: saturate(50%);
+  }
+  
+  .saturate-100 {
+    filter: saturate(100%);
+  }
+  
+  .saturate-150 {
+    filter: saturate(150%);
+  }
+  
+  /* Sepia */
+  .sepia-0 {
+    filter: sepia(0%);
+  }
+  
+  .sepia-50 {
+    filter: sepia(50%);
+  }
+  
+  .sepia-100 {
+    filter: sepia(100%);
+  }
+  
+  /* Backdrop Blur */
+  .backdrop-blur-none {
+    backdrop-filter: blur(0);
+  }
+  
+  .backdrop-blur-sm {
+    backdrop-filter: blur(4px);
+  }
+  
+  .backdrop-blur-md {
+    backdrop-filter: blur(8px);
+  }
+  
+  .backdrop-blur-lg {
+    backdrop-filter: blur(12px);
+  }
+  
+  /* Backdrop Brightness */
+  .backdrop-brightness-0 {
+    backdrop-filter: brightness(0%);
+  }
+  
+  .backdrop-brightness-50 {
+    backdrop-filter: brightness(50%);
+  }
+  
+  .backdrop-brightness-75 {
+    backdrop-filter: brightness(75%);
+  }
+  
+  .backdrop-brightness-100 {
+    backdrop-filter: brightness(100%);
+  }
+  
+  .backdrop-brightness-125 {
+    backdrop-filter: brightness(125%);
+  }
+  
+  /* Backdrop Contrast */
+  .backdrop-contrast-0 {
+    backdrop-filter: contrast(0%);
+  }
+  
+  .backdrop-contrast-50 {
+    backdrop-filter: contrast(50%);
+  }
+  
+  .backdrop-contrast-75 {
+    backdrop-filter: contrast(75%);
+  }
+  
+  .backdrop-contrast-100 {
+    backdrop-filter: contrast(100%);
+  }
+  
+  .backdrop-contrast-125 {
+    backdrop-filter: contrast(125%);
+  }
+  
+  /* Backdrop Grayscale */
+  .backdrop-grayscale-0 {
+    backdrop-filter: grayscale(0%);
+  }
+  
+  .backdrop-grayscale-50 {
+    backdrop-filter: grayscale(50%);
+  }
+  
+  .backdrop-grayscale-100 {
+    backdrop-filter: grayscale(100%);
+  }
+  
+  /* Backdrop Hue Rotate */
+  .backdrop-hue-rotate-0 {
+    backdrop-filter: hue-rotate(0deg);
+  }
+  
+  .backdrop-hue-rotate-90 {
+    backdrop-filter: hue-rotate(90deg);
+  }
+  
+  .backdrop-hue-rotate-180 {
+    backdrop-filter: hue-rotate(180deg);
+  }
+  
+  .backdrop-hue-rotate-270 {
+    backdrop-filter: hue-rotate(270deg);
+  }
+  
+  /* Backdrop Invert */
+  .backdrop-invert-0 {
+    backdrop-filter: invert(0%);
+  }
+  
+  .backdrop-invert-50 {
+    backdrop-filter: invert(50%);
+  }
+  
+  .backdrop-invert-100 {
+    backdrop-filter: invert(100%);
+  }
+  
+  /* Backdrop Opacity */
+  .backdrop-opacity-0 {
+    backdrop-filter: opacity(0%);
+  }
+  
+  .backdrop-opacity-25 {
+    backdrop-filter: opacity(25%);
+  }
+  
+  .backdrop-opacity-50 {
+    backdrop-filter: opacity(50%);
+  }
+  
+  .backdrop-opacity-75 {
+    backdrop-filter: opacity(75%);
+  }
+  
+  .backdrop-opacity-100 {
+    backdrop-filter: opacity(100%);
+  }
+  
+  /* Backdrop Saturate */
+  .backdrop-saturate-0 {
+    backdrop-filter: saturate(0%);
+  }
+  
+  .backdrop-saturate-50 {
+    backdrop-filter: saturate(50%);
+  }
+  
+  .backdrop-saturate-100 {
+    backdrop-filter: saturate(100%);
+  }
+  
+  .backdrop-saturate-150 {
+    backdrop-filter: saturate(150%);
+  }
+  
+  /* Backdrop Sepia */
+  .backdrop-sepia-0 {
+    backdrop-filter: sepia(0%);
+  }
+  
+  .backdrop-sepia-50 {
+    backdrop-filter: sepia(50%);
+  }
+  
+  .backdrop-sepia-100 {
+    backdrop-filter: sepia(100%);
+  }
+  

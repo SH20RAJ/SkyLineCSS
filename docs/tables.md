@@ -93,6 +93,85 @@ Example:
 </table>
 ```
 
+### Table Border Collapse
+
+You can control the border collapse behavior using the following classes:
+
+- `.border-collapse`: Collapse borders
+- `.border-separate`: Separate borders
+
+Example:
+
+```html
+<table class="table border-collapse">
+  <!-- Table with collapsed borders -->
+</table>
+
+<table class="table border-separate">
+  <!-- Table with separate borders -->
+</table>
+```
+
+### Table Border Spacing
+
+To adjust the border spacing between cells, use the following classes:
+
+- `.border-spacing`: No border spacing
+- `.border-spacing-2`: 2px border spacing
+- `.border-spacing-4`: 4px border spacing
+
+Example:
+
+```html
+<table class="table border-spacing-2">
+  <!-- Table with 2px border spacing -->
+</table>
+
+<table class="table border-spacing-4">
+  <!-- Table with 4px border spacing -->
+</table>
+```
+
+### Table Layout
+
+You can control the table layout using the following classes:
+
+- `.table-auto`: Automatic table layout
+- `.table-fixed`: Fixed table layout
+
+Example:
+
+```html
+<table class="table table-auto">
+  <!-- Automatic table layout -->
+</table>
+
+<table class="table table-fixed">
+  <!-- Fixed table layout -->
+</table>
+```
+
+### Table Caption Side
+
+You can position the table caption using the following classes:
+
+- `.caption-top`: Position caption on top
+- `.caption-bottom`: Position caption on bottom
+
+Example:
+
+```html
+<table class="table caption-top">
+  <caption>Table Caption</caption>
+  <!-- Table with caption on top -->
+</table>
+
+<table class="table caption-bottom">
+  <caption>Table Caption</caption>
+  <!-- Table with caption on bottom -->
+</table>
+```
+
 ### Responsive Tables
 
 SkyLineCSS provides responsive classes for tables. Here's an example:

@@ -3,6 +3,8 @@
 
 @import url("typography.css");
 @import url("effects.css");
+@import url("filters.css");
+
 
 
 
@@ -69,30 +71,7 @@
   font-size: 1.25rem;
 }
 
-/* Size (Width/Height) */
-.w-full {
-  width: 100%;
-}
 
-.w-1/2 {
-  width: 50%;
-}
-
-.w-1/3 {
-  width: 33.3333%;
-}
-
-.w-2/3 {
-  width: 66.6666%;
-}
-
-.h-full {
-  height: 100%;
-}
-
-.h-64 {
-  height: 16rem;
-}
 
 /* Background Color */
 .bg-transparent {
@@ -400,4 +379,29 @@
 
 .focus\:text-green-500:focus {
   color: #48bb78;
+}
+
+/* Size (Width/Height) */
+.w-full {
+  width: 100%;
+}
+
+.w-1/2 {
+  width: 50%;
+}
+
+.w-1/3 {
+  width: 33.3333%;
+}
+
+.w-2/3 {
+  width: 66.6666%;
+}
+
+.h-full {
+  height: 100%;
+}
+
+.h-64 {
+  height: 16rem;
 }
